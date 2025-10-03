@@ -1,24 +1,4 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
----
 title: "Teaching Experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -27,7 +7,6 @@ venue: "Gondar University, Department of Electrical and Computer Engineering"
 date: 2017-10-21
 location: "Gondar, Ethiopia"
 ---
-
 Teaching Experience 1
 ======
 * Overview
@@ -36,7 +15,6 @@ Since October 21, 2017, I have been working as a **Lecturer** in the **Departmen
 * Responsibilities
 ======
 As a **Lecturer**, my core responsibilities include:
-
   * Course Delivery**: Teaching undergraduate students in courses
   * Assessment & Evaluation: Designing exams, assignments, and quizzes; providing constructive feedback to students to help them improve their understanding of the course material.
   * Student Mentoring: Advising and guiding students in their **senior essay projects** and engineering projects. Helping students navigate their academic journey and ensuring they meet learning objectives.
