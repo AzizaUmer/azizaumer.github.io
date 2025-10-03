@@ -11,10 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 * Ph.D. in Artificial Intelligence and Robotics**, Bahir Dar University, Ethiopia – Ongoing (2024 – Present)
 * M.Sc. in Computer Engineering**, Bahir Dar University, Ethiopia, 2021
 * B.Sc. in Electrical & Computer Engineering**, University of Gondar, Ethiopia, 2017
@@ -23,8 +19,8 @@ Work experience
 ======
 * Lecturer – Electrical & Computer Engineering  Gondar University | Oct 2017 – Present
    * Teaching undergraduate courses in Electrical & Computer Engineering with focus on software development, networks, and embedded systems.
-   * Supervising and advising final-year student projects and research essays.
-   * Leading and participating in innovative projects that integrate AI, robotics, and digital systems.
+   * Supervising and advising final year student projects and research essays.
+   * Leading and participating in innovative projects that integrate AI and digital systems.
    * Contributing to curriculum development and academic program enhancement.  
 
 Key Achievements
