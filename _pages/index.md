@@ -1,6 +1,5 @@
 ---
-title: ""
-permalink: /about/
+title: "Home"
 layout: single
 author_profile: true
 ---
