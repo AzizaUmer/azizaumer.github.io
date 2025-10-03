@@ -14,21 +14,18 @@ Education
 * Ph.D. in Artificial Intelligence and Robotics, Bahir Dar University, Ethiopia – Ongoing (2024 – Present)
 * M.Sc. in Computer Engineering, Bahir Dar University, Ethiopia, 2021
 * B.Sc. in Electrical & Computer Engineering, University of Gondar, Ethiopia, 2017
-
 Work experience
 ======
-* Lecturer – Electrical & Computer Engineering  Gondar University | Oct 2017 – Present
+* Lecturer – Electrical & Computer Engineering  Gondar University, Oct 2017 – Present
    * Teaching undergraduate courses in Electrical & Computer Engineering with focus on software development, networks, and embedded systems.
    * Supervising and advising final year student projects and research essays.
    * Leading and participating in innovative projects that integrate AI and digital systems.
    * Contributing to curriculum development and academic program enhancement.  
-
 Key Achievements
 ======
 *  Awarded **Recognition Certificate and Gold Medal** at the 8th National Science, Technology & Innovation event.  
 *  Developed an innovative **Digital Notice Board system**, recognized by the Amhara Science, Technology & Information Commission.  
 *  Supervised and guided multiple successful senior projects in AI, distributed systems, and computer engineering applications.  
-
 Skills
 ======
 * Languages
@@ -43,7 +40,6 @@ Skills
   * Flask, HTML, CSS, JavaScript, WordPress  
 * Miscellaneous  
   * Academic Research, Teaching  
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -55,13 +51,11 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Workshop Organizer
