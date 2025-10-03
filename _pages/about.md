@@ -1,3 +1,8 @@
+---
+title: About Me
+permalink: /about/
+---
+
 ## About me  
 
 This is Aziza Umer Yibrie’s (አዚዛ ኡመር ይብሬ ) academic web page. 
