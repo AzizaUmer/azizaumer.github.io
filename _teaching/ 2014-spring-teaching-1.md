@@ -7,8 +7,6 @@ venue: "Gondar University, Department of Electrical and Computer Engineering"
 date: 2017-10-21
 location: "Gondar, Ethiopia"
 ---
-Teaching Experience 1
-======
 * Overview
 Since October 21, 2017, I have been working as a **Lecturer** in the **Department of Electrical and Computer Engineering** at **Gondar University**, located in **Gondar, Ethiopia**. In this role, I have been responsible for designing and delivering undergraduate courses, providing academic mentorship, and engaging students in real-world engineering projects. The courses I teach are primarily focused on **Electrical Engineering**, **Computer Networks** and **Software Engineering**.
 
