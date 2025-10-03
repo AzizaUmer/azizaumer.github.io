@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Artificial Intelligence and Robotics**, Bahir Dar University, Ethiopia – Ongoing (2024 – Present)
-* M.Sc. in Computer Engineering**, Bahir Dar University, Ethiopia, 2021
-* B.Sc. in Electrical & Computer Engineering**, University of Gondar, Ethiopia, 2017
+* Ph.D. in Artificial Intelligence and Robotics, Bahir Dar University, Ethiopia – Ongoing (2024 – Present)
+* M.Sc. in Computer Engineering, Bahir Dar University, Ethiopia, 2021
+* B.Sc. in Electrical & Computer Engineering, University of Gondar, Ethiopia, 2017
 
 Work experience
 ======
@@ -34,15 +34,15 @@ Skills
 * Languages
   * Strong reading, writing and speaking competencies in **English** and **Amharic**   
 * Coding  
-  * Python | Java | SQL | XML/XSL | JSON  
+  * Python, Java, SQL, XML/XSL, JSON  
 *  Machine Learning & Tools  
   * PyTorch, scikit-learn, spaCy, NLTK
 * Databases  
-  * MySQL | PostgreSQL |  
+  * MySQL, PostgreSQL  
 * Web Development  
-  * Flask | HTML | CSS | JavaScript | WordPress  
+  * Flask, HTML, CSS, JavaScript, WordPress  
 * Miscellaneous  
-  * Academic Research | Teaching  
+  * Academic Research, Teaching  
 
 Publications
 ======
