@@ -4,9 +4,6 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-
-## About me  
-
 This is Aziza Umer Yibrie’s (አዚዛ ኡመር ይብሬ ) academic web page. 
 
 ## Short intro:  
