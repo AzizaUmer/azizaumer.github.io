@@ -12,13 +12,13 @@ main:
     url: /about/
     
   - title: "Publications"
-    url: /publications/2017-teaching-1
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/2017-teaching-1/ 
+    url: /teaching/2017-teaching-1
     
   - title: "CV"
     url: /cv/
