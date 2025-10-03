@@ -15,31 +15,38 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
+* Ph.D. in Artificial Intelligence and Robotics**, Bahir Dar University, Ethiopia – Ongoing (2024 – Present)
+* M.Sc. in Computer Engineering**, Bahir Dar University, Ethiopia, 2021
+* B.Sc. in Electrical & Computer Engineering**, University of Gondar, Ethiopia, 2017
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lecturer – Electrical & Computer Engineering  Gondar University | Oct 2017 – Present
+   * Teaching undergraduate courses in Electrical & Computer Engineering with focus on software development, networks, and embedded systems.
+   * Supervising and advising final-year student projects and research essays.
+   * Leading and participating in innovative projects that integrate AI, robotics, and digital systems.
+   * Contributing to curriculum development and academic program enhancement.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Key Achievements
+======
+*  Awarded **Recognition Certificate and Gold Medal** at the 8th National Science, Technology & Innovation event.  
+*  Developed an innovative **Digital Notice Board system**, recognized by the Amhara Science, Technology & Information Commission.  
+*  Supervised and guided multiple successful senior projects in AI, distributed systems, and computer engineering applications.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Strong reading, writing and speaking competencies in **English** and **Amharic**   
+* Coding  
+  * Python | Java | SQL | XML/XSL | JSON  
+*  Machine Learning & Tools  
+  * PyTorch, scikit-learn, spaCy, NLTK
+* Databases  
+  * MySQL | PostgreSQL |  
+* Web Development  
+  * Flask | HTML | CSS | JavaScript | WordPress  
+* Miscellaneous  
+  * Academic Research | Teaching  
 
 Publications
 ======
@@ -61,4 +68,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Workshop Organizer
+   * Organized and led **workshop** on **Artificial Intelligence** and **Machine Learning** to promote knowledge-sharing among students and faculty.
+   * Coordinated with external speakers, researchers, and experts to provide hands-on training and real-world insights to participants.
+
