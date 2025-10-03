@@ -8,6 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Aziza Umer Yibrie - አዚዛ ኡመር ይብሬ"
+    url: /about/
   - title: "Publications"
     url: /publications/
 
