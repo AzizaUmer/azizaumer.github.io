@@ -12,21 +12,21 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Aziza Umer Yibrie - አዚዛ ኡመር ይብሬ"
 title_separator          : "-"
 name                     : &name "Aziza Umer Yibrie"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Aziza Umer is a Ph.D. student in Artificial Intelligence and Robotics at Bahir Dar University, Ethiopia. Her research lies at the intersection of healthcare and multimodal AI, where she develops systems that integrate Computer Vision and Natural Language Processing (NLP). With a focus on low-resource settings, she is passionate about building intelligent tools that overcome language and diagnostic barriers, aiming to improve equitable access to healthcare."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://aziumer.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aziz86umer-a11y/aziumeryibrie.github.io"
+repository               : "AzizaUmer/aziumer.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Aziza Umer Yibrie"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : #"she/her"  
+  bio              : "Ph.D. student in Artificial Intelligence and Robotics at Bahir Dar University, Ethiopia."
   location         : "Ethiopia"
   employer         : "University of Gondar"
   uri              : # URL
