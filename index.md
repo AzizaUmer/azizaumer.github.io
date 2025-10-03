@@ -1,5 +1,5 @@
 ---
-title: ""
+title: null
 layout: single
 author_profile: true
 ---
