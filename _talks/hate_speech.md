@@ -1,9 +1,10 @@
 ---
 title: "HateSpeech Taxonomy" 
-collection: projects 
+collection: "projects"
 type: "research" 
 permalink: /talks/hatespeech-taxonomy/ 
-status: "In Progress" --- 
+status: "In Progress" 
+--- 
 
 ## Overview 
 **Hate Speech Taxonomy** is an ongoing research project that focuses on developing a structured framework for classifying and analyzing hate speech. The goal is to create a consistent taxonomy that supports comparative studies across datasets, languages, and online platforms. 
