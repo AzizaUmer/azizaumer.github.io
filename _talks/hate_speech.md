@@ -2,7 +2,7 @@
 title: "HateSpeech Taxonomy" 
 collection: "projects"
 type: "research" 
-permalink: /talks/hatespeech-taxonomy/ 
+permalink: /talks/hate_speech/ 
 status: "In Progress" 
 --- 
 
