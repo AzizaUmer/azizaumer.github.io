@@ -14,11 +14,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/2017-teaching-1
+    
+  - title: "Projects"
+    url: /talks/    
+
     
   - title: "CV"
     url: /cv/
