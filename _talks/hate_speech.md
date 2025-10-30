@@ -1,5 +1,5 @@
 ---
-title: "HateSpeech Taxonomy" 
+title: "Hate Speech Taxonomy" 
 collection: "projects"
 type: "research" 
 permalink: /talks/hate_speech/ 
