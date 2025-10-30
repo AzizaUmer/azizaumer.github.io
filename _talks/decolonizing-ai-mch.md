@@ -2,7 +2,7 @@
 title: "Decolonizing AI Toolchains for Maternal and Child Healthcare"
 collection: projects
 type: "research"
-permalink: /talks/decolonizing-ai-mch/
+permalink: /_talks/decolonizing-ai-mch/
 date: 2025-10-30
 status: "In Progress"
 ---
