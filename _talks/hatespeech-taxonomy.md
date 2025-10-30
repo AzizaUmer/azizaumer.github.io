@@ -8,7 +8,7 @@ status: "In Progress"
 ---
 
 ## Overview
-**HateSpeech Taxonomy** is an ongoing research project that focuses on developing a structured framework for classifying and analyzing hate speech.  
+**Hate Speech Taxonomy** is an ongoing research project that focuses on developing a structured framework for classifying and analyzing hate speech.  
 The goal is to create a consistent taxonomy that supports comparative studies across datasets, languages, and online platforms.  
 
 This work involves iterative data collection, annotation, and taxonomy refinement — guided by current academic and regulatory frameworks related to online content moderation.  
