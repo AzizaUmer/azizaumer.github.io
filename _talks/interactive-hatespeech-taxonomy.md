@@ -5,7 +5,8 @@ type: "Research"
 permalink: /talks/interactive-hatespeech-taxonomy/
 status: "In Progress"
 technologies: ["JavaScript", "D3.js", "HTML", "CSS", "Python"]
-github_link: https://github.com/YourUsername/HateSpeech-Taxonomy
+github_link: https://github.com/AzizaUmer/Hate-Speech-Taxonomy
+live_link: https://azizaumer.github.io/Hate-Speech-Taxonomy/
 ---
 
 ## Overview
